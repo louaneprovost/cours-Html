@@ -1,23 +1,5 @@
 # cours-Html
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- titre de la page -->
-    <title>Cours HTML de zéro</title>
-    <!-- incone de l'onglet -->
-     <link rel="shortcut icon" href="./logo_head.png">
-</head>
-<body>
-    <nav>
-        <!-- ul= Unordered List -->
-        <ul>
-            <li>Acceuil</li>
-            <li>Boutique</li>
-            <li>
-                <a href="#from" >Fomulaire</a>
-            </li>
+
         </ul>
     </nav>
     <header>
